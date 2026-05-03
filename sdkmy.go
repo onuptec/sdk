@@ -1,7 +1,7 @@
 package main
 
 import (
-	"leandro/sdk"
+	"https://github.com/onuptec/sdk"
 )
 
 func main() {
